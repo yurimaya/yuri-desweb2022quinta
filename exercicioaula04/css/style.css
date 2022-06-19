@@ -1,0 +1,100 @@
+body{
+	font-family: roboto;
+	color: #000000;
+
+	
+
+}
+
+
+.container{
+	margin: 0 auto;
+	margin: center;
+}
+
+
+
+.logo{
+	vertical-align: sub;
+	margin-top: 30px;
+
+}
+
+
+nav{
+    width: 45em;
+    margin: 0 auto;
+    display: inline;
+    padding-left: 500px;
+
+}
+
+ul{
+    display: block;
+    float: right;
+}
+
+li{
+    font-size: 12px;
+    display: block;
+    float: left;
+    margin: 12px;
+}
+
+
+.banner{
+		background-image: url("../img/banner.jpg");
+		background-position: center;
+		height: 450px;
+}
+
+.caixa{
+	width: 600px;
+	height: 270px;
+	color: transparent;
+	background-color: #000;
+	opacity: 0.5;
+}
+
+
+h1{
+	font-family: Arial; 
+	font-size: 55px;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+
+}
+
+
+p{	
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	padding-left: 32px;
+
+
+}
+
+
+a{
+	padding-left: 32px;
+	color: darkblue;
+}
+
+article{
+	width: 200px;
+	display: inline-block;
+	 
+	
+}
+
+
+.imagem-coluna{
+	 display: block;
+    height: 200px;
+    
+
+}
+
+
